@@ -13,7 +13,6 @@ function App() {
     <>
       <header>
         <Navbar></Navbar>
-        <DaisyNav></DaisyNav>
       </header>
       <main>
         <Suspense

@@ -16,6 +16,7 @@
   },
   {
     "id": 2,
+    "popular": true,
     "name": "Standard Plan",
     "price": "$49/month",
     "description": "Ideal for regular gym-goers who want more variety and flexibility.",
