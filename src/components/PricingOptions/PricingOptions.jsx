@@ -4,7 +4,7 @@ import DaisyPricing from "../DaisyPricing/DaisyPricing";
 
 const PricingOptions = ({ pricingPromise }) => {
   const pricingData = use(pricingPromise);
-  console.log(pricingData);
+
   return (
     <div>
       <h2 className="text-5xl">Get Our Membersship</h2>
