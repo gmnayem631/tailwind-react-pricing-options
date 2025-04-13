@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Basic Plan",
     "price": "$29/month",
     "description": "Great for beginners looking to get started on their fitness journey.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Standard Plan",
     "price": "$49/month",
     "description": "Ideal for regular gym-goers who want more variety and flexibility.",
@@ -29,6 +31,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Premium Plan",
     "price": "$79/month",
     "description": "Perfect for fitness enthusiasts who want it all.",
